@@ -1,0 +1,106 @@
+[size=12]Stamm: [ally]Prost![/ally][/size][table]
+[**]Spieler[||]Punkte[||]Dörfer[||]Mindest-Def[/**]
+[*][player]milanotti[/player][|]6341[|][coord]502|531[/coord]
+[coord]500|529[/coord][|]951.0
+[*][player]SchlauWieStroh[/player][|]3557[|][coord]518|523[/coord][|]534.0
+[*][player]Wesp[/player][|]3472[|][coord]502|527[/coord][|]521.0
+[*][player]dbgktl[/player][|]3383[|][coord]520|522[/coord][|]507.0
+[*][player]BossoftheHood[/player][|]3356[|][coord]521|532[/coord][|]503.0
+[*][player]UnKillAI3le[/player][|]3334[|][coord]523|524[/coord][|]500.0
+[*][player]sunoc[/player][|]3269[|][coord]496|521[/coord][|]490.0
+[*][player]Ar in faead[/player][|]3199[|][coord]515|519[/coord][|]480.0
+[*][player]wickeeeeed1[/player][|]3081[|][coord]503|532[/coord][|]462.0
+[*][player]Fredson[/player][|]2961[|][coord]503|531[/coord][|]444.0
+[*][player]numpy[/player][|]2821[|][coord]524|524[/coord][|]423.0
+[*][player]DerChucky[/player][|]2818[|][coord]526|533[/coord][|]423.0
+[*][player]Zoroaster[/player][|]2774[|][coord]511|533[/coord][|]416.0
+[*][player]Okocha[/player][|]2755[|][coord]502|524[/coord][|]413.0
+[*][player]Rowii[/player][|]2711[|][coord]510|526[/coord][|]407.0
+[*][player]Julez565[/player][|]2613[|][coord]527|539[/coord][|]392.0
+[*][player]floriandazns[/player][|]2332[|][coord]519|520[/coord][|]350.0
+[*][player]Knödelkoch[/player][|]2282[|][coord]515|530[/coord][|]342.0
+[*][player]vater tod[/player][|]2263[|][coord]496|528[/coord][|]339.0
+[*][player]Bullet270[/player][|]2213[|][coord]511|527[/coord][|]332.0
+[*][player]snoopy666[/player][|]2108[|][coord]511|540[/coord][|]316.0
+[*][player]MädchenFürAlles[/player][|]2094[|][coord]510|533[/coord][|]314.0
+[*][player]bennihero[/player][|]2016[|][coord]512|521[/coord][|]302.0
+[*][player]glichfalls[/player][|]1873[|][coord]523|517[/coord][|]281.0
+[*][player]unEcht88[/player][|]1860[|][coord]505|528[/coord][|]279.0
+[*][player]harambe420[/player][|]1858[|][coord]505|525[/coord][|]279.0
+[*][player]jawsome[/player][|]1839[|][coord]509|531[/coord][|]276.0
+[*][player]SirKirby[/player][|]1743[|][coord]518|522[/coord][|]261.0
+[*][player]baby sun[/player][|]1610[|][coord]505|521[/coord][|]242.0
+[*][player]Warbert[/player][|]1581[|][coord]509|526[/coord][|]237.0
+[/table]
+------------------------------------------------------------
+[size=12]Stamm: [ally]EIMER[/ally][/size][table]
+[**]Spieler[||]Punkte[||]Dörfer[||]Mindest-Def[/**]
+[*][player]Potatopower[/player][|]14249[|][coord]465|443[/coord]
+[coord]463|442[/coord]
+[coord]465|441[/coord]
+[coord]462|443[/coord]
+[coord]468|443[/coord][|]2137.0
+[*][player]Freddy Krüger[/player][|]8592[|][coord]465|437[/coord]
+[coord]467|440[/coord]
+[coord]459|441[/coord][|]1289.0
+[*][player]Mukisuki[/player][|]2842[|][coord]459|437[/coord][|]426.0
+[*][player]JR08[/player][|]2723[|][coord]459|445[/coord][|]408.0
+[*][player]BergerS2[/player][|]2536[|][coord]464|447[/coord][|]380.0
+[*][player]König King Kong[/player][|]2384[|][coord]468|463[/coord][|]358.0
+[*][player]Ziggs22[/player][|]2345[|][coord]473|432[/coord][|]352.0
+[*][player]kruzlinger[/player][|]2247[|][coord]454|438[/coord][|]337.0
+[*][player]Rupert der Erste[/player][|]2186[|][coord]477|424[/coord][|]328.0
+[*][player]Schlange19[/player][|]2156[|][coord]465|446[/coord][|]323.0
+[*][player]RedJersey[/player][|]2155[|][coord]464|443[/coord][|]323.0
+[*][player]Quorexxx[/player][|]2026[|][coord]456|433[/coord][|]304.0
+[*][player]Michael-the-catcher[/player][|]1993[|][coord]457|441[/coord][|]299.0
+[*][player]SevenNati0nsArmy[/player][|]1946[|][coord]464|444[/coord][|]292.0
+[*][player]Huba12[/player][|]1789[|][coord]474|442[/coord][|]268.0
+[*][player]baldrian2[/player][|]1683[|][coord]464|445[/coord][|]252.0
+[*][player]dieselman[/player][|]1622[|][coord]460|440[/coord][|]243.0
+[*][player]killerbee1986[/player][|]1609[|][coord]466|443[/coord][|]241.0
+[*][player]Noyan[/player][|]1393[|][coord]468|447[/coord][|]209.0
+[*][player]-NotStrategie*[/player][|]1186[|][coord]470|446[/coord][|]178.0
+[*][player]Stillers[/player][|]1129[|][coord]472|448[/coord][|]169.0
+[/table]
+------------------------------------------------------------
+[size=12]Stamm: [ally]-BC-[/ally][/size][table]
+[**]Spieler[||]Punkte[||]Dörfer[||]Mindest-Def[/**]
+[*][player]untouch57[/player][|]14792[|][coord]463|512[/coord]
+[coord]469|514[/coord]
+[coord]446|505[/coord]
+[coord]473|516[/coord][|]2219.0
+[*][player]DscArminia1905[/player][|]6023[|][coord]440|512[/coord]
+[coord]441|513[/coord][|]903.0
+[*][player]Frank35[/player][|]5657[|][coord]437|510[/coord]
+[coord]434|509[/coord][|]849.0
+[*][player]RC Predator[/player][|]4980[|][coord]463|510[/coord]
+[coord]463|505[/coord][|]747.0
+[*][player]Blausternchen[/player][|]3544[|][coord]452|513[/coord][|]532.0
+[*][player]NaiheIce[/player][|]3485[|][coord]434|517[/coord][|]523.0
+[*][player]MADrossel[/player][|]3444[|][coord]444|521[/coord][|]517.0
+[*][player]vonWüstenau[/player][|]3411[|][coord]435|526[/coord][|]512.0
+[*][player]Salkin1991[/player][|]3344[|][coord]427|525[/coord][|]502.0
+[*][player]thecurse01[/player][|]3327[|][coord]437|513[/coord][|]499.0
+[*][player]Larsser[/player][|]3266[|][coord]454|511[/coord][|]490.0
+[*][player]dRayzNN[/player][|]3231[|][coord]433|524[/coord][|]485.0
+[*][player]Jack the Wanderer[/player][|]3181[|][coord]434|527[/coord][|]477.0
+[*][player]Sk0rpi[/player][|]3094[|][coord]449|513[/coord][|]464.0
+[*][player]FogDog[/player][|]3040[|][coord]449|519[/coord][|]456.0
+[*][player]capatec[/player][|]2873[|][coord]444|512[/coord][|]431.0
+[*][player]Awesome Teddy[/player][|]2830[|][coord]443|522[/coord][|]424.0
+[*][player]Cousinplay[/player][|]2814[|][coord]447|523[/coord][|]422.0
+[*][player]black queen[/player][|]2728[|][coord]441|515[/coord][|]409.0
+[*][player]Disogrande[/player][|]2707[|][coord]444|518[/coord][|]406.0
+[*][player]sk0r[/player][|]2684[|][coord]448|516[/coord][|]403.0
+[*][player]Biduu[/player][|]2615[|][coord]443|518[/coord][|]392.0
+[*][player]JaanKz[/player][|]2548[|][coord]445|518[/coord][|]382.0
+[*][player]Finney82[/player][|]2505[|][coord]464|507[/coord][|]376.0
+[*][player]alex101[/player][|]2469[|][coord]450|521[/coord][|]370.0
+[*][player]sherazarde[/player][|]2441[|][coord]447|512[/coord][|]366.0
+[*][player]robwar[/player][|]2426[|][coord]453|516[/coord][|]364.0
+[*][player]Weißer Schachkönig.[/player][|]2401[|][coord]448|519[/coord][|]360.0
+[*][player]LordGrili[/player][|]2387[|][coord]445|514[/coord][|]358.0
+[*][player]Insignificant[/player][|]1490[|][coord]465|522[/coord][|]224.0
+[/table]
+------------------------------------------------------------
